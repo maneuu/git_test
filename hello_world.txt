@@ -1,1 +1,2 @@
 "Hello World" is a timeless phrase that marks the beginning of every coder's journey. Simple yet powerful, it signifies the first step into the vast world of programming. 🌍💻
+"Hello World" is more than just a phrase; it's a rite of passage for programmers. It represents the excitement and curiosity of diving into the world of coding for the first time.
